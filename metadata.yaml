@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3850
     wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43693#Summary-Narrative-of-an-Exploratory-Expedition-to-the-Sources-of-the-Mississippi-River-in-182_
 gutenberg_issued: '2013-09-11'
 gutenberg_type: Text
 identifiers:
