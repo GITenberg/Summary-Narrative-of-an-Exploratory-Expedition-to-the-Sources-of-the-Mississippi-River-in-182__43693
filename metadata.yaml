@@ -1,0 +1,33 @@
+_repo: Summary-Narrative-of-an-Exploratory-Expedition-to-the-Sources-of-the-Mississippi-River-in-182__43693
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43693-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schoolcraft, Henry Rowe
+    alias: Schoolcraft, Henry R. (Henry Rowe)
+    birthdate: 1793
+    deathdate: 1864
+    gutenberg_agent_id: '3850'
+    url: http://www.gutenberg.org/2009/agents/3850
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
+description: ''
+gutenberg_issued: '2013-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Lakes (North America)'
+- !lcc 'F590.3'
+- !lcsh 'Mississippi River -- Sources'
+- !lcsh 'Northwest, Old -- Description and travel'
+title: 'Summary Narrative of an Exploratory Expedition to the Sources of the Mississippi
+  River, in 1820
+
+  Resumed and Completed, by the Discovery of its Origin in Itasca Lake, in 1832'
+url: http://www.gutenberg.org/ebooks/43693
